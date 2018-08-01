@@ -1,0 +1,1 @@
+# technical-solution-of-a-management-system
